@@ -1,12 +1,11 @@
 # Mac Setting
-============================================================================================================================
 
-* brew
+## brew
 
-- 설치
+### 설치
 https://brew.sh/
 
-* brew로 설치한 패키지를 전역적으로 사용 설정
+### brew로 설치한 패키지를 전역적으로 사용 설정
 1. vi ~/.bash_profile - vi 편집기로 .bash_profile 파일 생성 또는 실행
 2. export PATH="/usr/local/Cellar:$PATH" - 작성
 3. source .bash_profile - ~ 경로 에서 실행

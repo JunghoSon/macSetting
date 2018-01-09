@@ -1,7 +1,7 @@
 # Mac Setting
 
 
-### brew
+### *brew
 
 #### 설치
 https://brew.sh/

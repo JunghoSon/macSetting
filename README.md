@@ -12,6 +12,7 @@ https://brew.sh/
 3. source .bash_profile - ~ 경로 에서 실행
 
 
+
 ### * git
 
 #### 설치
@@ -24,6 +25,7 @@ https://brew.sh/
 4. source ~/git-completion.bash - 작성
 
 
+
 ### * mongodb
 
 #### 설치
@@ -32,6 +34,7 @@ https://brew.sh/
 3. sudo chown $USER /data/db - 권한 부여
 4. mongod - mongodb 실행
 5. mongo - mongodb shell 실행
+
 
 
 ### * node

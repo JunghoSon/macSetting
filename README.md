@@ -1,1 +1,1 @@
-# macSetting
+# Mac Setting

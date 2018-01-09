@@ -40,8 +40,9 @@ https://brew.sh/
 ### * node
 
 #### pkg로 설치한 node 삭제
+https://stackoverflow.com/questions/11177954/how-do-i-completely-uninstall-node-js-and-reinstall-from-beginning-mac-os-x
 
-* node 설치
+#### node 설치
 1. brew search node - stable version확인
 2. brew install node@version --without-npm - 설치(version에 따라 변경)
 3. vi ~/.bash_profile - vi 편집기로 .bash_profile 파일 생성 또는 실행

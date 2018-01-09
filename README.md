@@ -1,7 +1,7 @@
 # Mac Setting
 
 
-### *brew
+### * brew
 
 #### 설치
 https://brew.sh/
@@ -12,7 +12,7 @@ https://brew.sh/
 3. source .bash_profile - ~ 경로 에서 실행
 
 
-### git
+### * git
 
 #### 설치
 1. brew install git
@@ -24,7 +24,7 @@ https://brew.sh/
 4. source ~/git-completion.bash - 작성
 
 
-### mongodb
+### * mongodb
 
 #### 설치
 1. brew install mongodb - 설치
@@ -34,7 +34,7 @@ https://brew.sh/
 5. mongo - mongodb shell 실행
 
 
-### node
+### * node
 
 #### pkg로 설치한 node 삭제
 
